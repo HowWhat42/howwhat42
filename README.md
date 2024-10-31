@@ -27,9 +27,6 @@ Whatever your project, I will be able to support you and find a solution that me
     <a href="https://www.gnu.org/software/bash/">
         <img src="https://img.shields.io/static/v1?label=&message=Bash&style=flat-square&logo=GNU Bash&color=1D1F21&" />
     </a>
-    <a href="https://www.rust-lang.org/">
-        <img src="https://img.shields.io/static/v1?label=&message=Rust&style=flat-square&logo=Rust&color=1D1F21&" />
-    </a>
     <a href="https://www.typescriptlang.org/">
       <img src ="https://img.shields.io/static/v1?label=&message=Typescript&style=flat-square&logo=typescript&color=1D1F21&" />
     </a>
